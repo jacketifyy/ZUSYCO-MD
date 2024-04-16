@@ -18,13 +18,13 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "923224353958",
   SUDO_NUMBERS : "923224353958",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NAME: "『 𝐌 𝐔𝐦𝐚𝐫 』",
+  BOT_NAME : "ᗰ ᑌᗰᗩᖇ",
+  ZUSYCO_FILE : "ᗰ ᑌᗰᗩᖇ",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://iili.io/JapfC1p.jpg',
+    WELCOME: 'https://png.pngtree.com/png-vector/20220921/ourmid/pngtree-welcome-text-effect-with-colorful-heart-shaped-png-image_6208004.png',
+    GOODBYE: 'https://st2.depositphotos.com/3837271/8402/i/450/depositphotos_84026352-stock-photo-goodbye-on-desert-road.jpg'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
@@ -35,14 +35,14 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝐌 𝐔𝐦𝐚𝐫',
+  STICKER_PACK : '[ ᗰ ᑌᗰᗩᖇ ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  MAX_SIZE : 900,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
